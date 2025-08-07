@@ -1,1 +1,1 @@
-random practice of neural networks (cnn, rnn, etc...)
+Neural Network Practice Repository: CNNs, RNNs, and Other Architectures
